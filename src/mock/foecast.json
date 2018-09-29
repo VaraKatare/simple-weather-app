@@ -1,0 +1,164 @@
+{
+    "Headline": {
+      "EffectiveDate": "2018-03-12T19:00:00+01:00",
+      "EffectiveEpochDate": 1520877600,
+      "Severity": 2,
+      "Text":
+        "Rain Monday evening will change to snow and accumulate 5-10 cm before ending Tuesday afternoon",
+      "Category": "snow/rain",
+      "EndDate": "2018-03-13T19:00:00+01:00",
+      "EndEpochDate": 1520964000,
+      "MobileLink":
+        "http://m.accuweather.com/en/se/stockholm/314929/extended-weather-forecast/314929?unit=c&lang=en-us",
+      "Link":
+        "http://www.accuweather.com/en/se/stockholm/314929/daily-weather-forecast/314929?unit=c&lang=en-us"
+    },
+    "DailyForecasts": [
+      {
+        "Date": "2018-03-12T07:00:00+01:00",
+        "EpochDate": 1520834400,
+        "Temperature": {
+          "Minimum": {
+            "Value": 1.2,
+            "Unit": "C",
+            "UnitType": 17
+          },
+          "Maximum": {
+            "Value": 6.4,
+            "Unit": "C",
+            "UnitType": 17
+          }
+        },
+        "Day": {
+          "Icon": 12,
+          "IconPhrase": "Showers"
+        },
+        "Night": {
+          "Icon": 29,
+          "IconPhrase": "Rain and snow"
+        },
+        "Sources": ["AccuWeather"],
+        "MobileLink":
+          "http://m.accuweather.com/en/se/stockholm/314929/daily-weather-forecast/314929?day=1&unit=c&lang=en-us",
+        "Link":
+          "http://www.accuweather.com/en/se/stockholm/314929/daily-weather-forecast/314929?day=1&unit=c&lang=en-us"
+      },
+      {
+        "Date": "2018-03-13T07:00:00+01:00",
+        "EpochDate": 1520920800,
+        "Temperature": {
+          "Minimum": {
+            "Value": -4.6,
+            "Unit": "C",
+            "UnitType": 17
+          },
+          "Maximum": {
+            "Value": 2.4,
+            "Unit": "C",
+            "UnitType": 17
+          }
+        },
+        "Day": {
+          "Icon": 22,
+          "IconPhrase": "Snow"
+        },
+        "Night": {
+          "Icon": 36,
+          "IconPhrase": "Intermittent clouds"
+        },
+        "Sources": ["AccuWeather"],
+        "MobileLink":
+          "http://m.accuweather.com/en/se/stockholm/314929/daily-weather-forecast/314929?day=2&unit=c&lang=en-us",
+        "Link":
+          "http://www.accuweather.com/en/se/stockholm/314929/daily-weather-forecast/314929?day=2&unit=c&lang=en-us"
+      },
+      {
+        "Date": "2018-03-14T07:00:00+01:00",
+        "EpochDate": 1521007200,
+        "Temperature": {
+          "Minimum": {
+            "Value": -8.2,
+            "Unit": "C",
+            "UnitType": 17
+          },
+          "Maximum": {
+            "Value": 0.7,
+            "Unit": "C",
+            "UnitType": 17
+          }
+        },
+        "Day": {
+          "Icon": 6,
+          "IconPhrase": "Mostly cloudy"
+        },
+        "Night": {
+          "Icon": 35,
+          "IconPhrase": "Partly cloudy"
+        },
+        "Sources": ["AccuWeather"],
+        "MobileLink":
+          "http://m.accuweather.com/en/se/stockholm/314929/daily-weather-forecast/314929?day=3&unit=c&lang=en-us",
+        "Link":
+          "http://www.accuweather.com/en/se/stockholm/314929/daily-weather-forecast/314929?day=3&unit=c&lang=en-us"
+      },
+      {
+        "Date": "2018-03-15T07:00:00+01:00",
+        "EpochDate": 1521093600,
+        "Temperature": {
+          "Minimum": {
+            "Value": -8.4,
+            "Unit": "C",
+            "UnitType": 17
+          },
+          "Maximum": {
+            "Value": -1.6,
+            "Unit": "C",
+            "UnitType": 17
+          }
+        },
+        "Day": {
+          "Icon": 22,
+          "IconPhrase": "Snow"
+        },
+        "Night": {
+          "Icon": 34,
+          "IconPhrase": "Mostly clear"
+        },
+        "Sources": ["AccuWeather"],
+        "MobileLink":
+          "http://m.accuweather.com/en/se/stockholm/314929/daily-weather-forecast/314929?day=4&unit=c&lang=en-us",
+        "Link":
+          "http://www.accuweather.com/en/se/stockholm/314929/daily-weather-forecast/314929?day=4&unit=c&lang=en-us"
+      },
+      {
+        "Date": "2018-03-16T07:00:00+01:00",
+        "EpochDate": 1521180000,
+        "Temperature": {
+          "Minimum": {
+            "Value": -10.6,
+            "Unit": "C",
+            "UnitType": 17
+          },
+          "Maximum": {
+            "Value": -3,
+            "Unit": "C",
+            "UnitType": 17
+          }
+        },
+        "Day": {
+          "Icon": 23,
+          "IconPhrase": "Mostly cloudy w/ snow"
+        },
+        "Night": {
+          "Icon": 34,
+          "IconPhrase": "Mostly clear"
+        },
+        "Sources": ["AccuWeather"],
+        "MobileLink":
+          "http://m.accuweather.com/en/se/stockholm/314929/daily-weather-forecast/314929?day=5&unit=c&lang=en-us",
+        "Link":
+          "http://www.accuweather.com/en/se/stockholm/314929/daily-weather-forecast/314929?day=5&unit=c&lang=en-us"
+      }
+    ]
+  }
+  
